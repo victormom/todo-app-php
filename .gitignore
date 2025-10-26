@@ -1,0 +1,17 @@
+# Archivos de configuración sensibles
+config/database.php
+
+# Logs
+*.log
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+
+# Temporal
+*.tmp
+*.swp
